@@ -1,9 +1,9 @@
 # HoursEstimator
 
-Simple Python Tkinter GUI to estimate total hours based on number of tasks and average hours per task.
+PySide6 desktop application for estimating controls engineering hours.
 
 ## Usage
 
 ```bash
-python gui.py
+python app.py
 ```
